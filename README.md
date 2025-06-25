@@ -1,4 +1,4 @@
-### Hi there 👋, kaz1nak
+### kaz1nak
 #### 3000 elo talent or a programmer?
 ![3000 elo talent or a programmer?](https://yt3.googleusercontent.com/bTy1LBBv-rw6rna1Hd6s4w_tqRaEMQsh0-9c0fKOm4cV-Cjhi3B8MEbixYVKnsLlQcm4-CYpbsE=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 
