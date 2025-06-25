@@ -17,3 +17,12 @@ Skills:  Python / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kaz1nak666&show_icons=true&count_private=true)  
 
+
+### Мои проекты 🚀 
+<details>
+  <summary>Смотреть проекты</summary>
+  <ul>
+    <li><a href="https://github.com/kaz1nak666/clicker-windowsforms">Кликер WindowsForms</a></li>
+    <li><a href="https://github.com/kaz1nak666/ITTopDiary">Электронный дневник.app</a></li>
+  </ul>
+</details>
