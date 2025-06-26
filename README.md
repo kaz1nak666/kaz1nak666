@@ -1,6 +1,6 @@
 
 ![3000 elo talent or a programmer?](https://yt3.googleusercontent.com/bTy1LBBv-rw6rna1Hd6s4w_tqRaEMQsh0-9c0fKOm4cV-Cjhi3B8MEbixYVKnsLlQcm4-CYpbsE=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
-### kaz1nak
+[![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/kaz1nak)
 [![ko-fi](https://img.shields.io/badge/is--online-github-0f0.svg)](https://github.com/kaz1nak666?tab=overview&from=2024-05-01)
 #### 3000 elo talent or a programmer?
 
