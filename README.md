@@ -20,6 +20,7 @@ Skills:  Python / HTML / CSS
 <details>
   <summary>Смотреть проекты</summary>
   <ul>
+    <li><a href="https://kaz1nak666.github.io/notes/">Удобные заметки</a></li>
     <li><a href="https://github.com/kaz1nak666/clicker-windowsforms">Кликер WindowsForms</a></li>
     <li><a href="https://github.com/kaz1nak666/ITTopDiary">Электронный дневник.app</a></li>
     <li><a href="https://github.com/kaz1nak666/calculatorkaz1nak">Калькулятор</a></li>
